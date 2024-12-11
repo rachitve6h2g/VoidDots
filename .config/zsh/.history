@@ -1,0 +1,648 @@
+: 1732603719:3;vim .history
+: 1732603724:2;rm .history
+: 1732604499:0;touch hello.c
+: 1732604551:0;gcc hello.c
+: 1732604563:0;rm hello.c
+: 1732604632:0;chmod -x *
+: 1732604645:0;chmod -x scripts
+: 1732604731:0;git clone git@github.com:rachitve6h2g/ArchDots.git
+: 1732604812:0;cd config_home
+: 1732604842:0;git clone https://github.com/rachitve6h/ArchDots.git
+: 1732604861:0;git clone https://github.com/rachitve6h2g/ArchDots.git
+: 1732604874:0;rm -rf ArchDots
+: 1732604910:0;mkdir hypr.bak
+: 1732604912:0;cd hypr.bak
+: 1732604922:0;touch hyprland.conf
+: 1732604928:0;rm hyprland.conf
+: 1732604988:0;pwd
+: 1732605018:0;touch hello.conf
+: 1732605021:0;rm hello.conf
+: 1732602900:0;cd .config/zsh/
+: 1732605179:0;cd G
+: 1732605188:0;ls 
+: 1732603251:57;vim antigen.zsh
+: 1732603312:0;..
+: 1732605365:0;cd ArchDots
+: 1732605387:0;git add *
+: 1732605423:0;git commit Sway/ -m "Sway config"
+: 1732605448:0;git config --global user.email "rachitverma1122@gmail.com"
+: 1732605465:0;git config --globla user.name "rachitve6h2g"
+: 1732605497:0;git config --global user.name "rachitve6h2g"
+: 1732605511:0;git commit -m "Sway only"
+: 1732605528:0;l;s
+: 1732605693:0;hello
+: 1732605718:0;omz relaod
+: 1732605721:0;omz reload
+: 1732605742:0;sudo eclean --deep distfiles
+: 1732605786:0;sudo emerge --ask --verbose --update --deep --newuse --with-bdeps=y @world
+: 1732605935:0;cava
+: 1732606254:0;clearw
+: 1732607077:0;cd .config/waybar
+: 1732607079:0;vim mocha.css
+: 1732608061:0;cd ../hypr
+: 1732608403:0;vim hyprpaper.conf
+: 1732628982:0;rm -rf hypr.bak
+: 1732630144:0;vim hypridle.conf
+: 1732631814:0;sudo emerge --ask --verbose --update --deep --changed-use --with-bdeps=y @world
+: 1732632293:0;sudo eselect --depclean
+: 1732632305:0;sudo emerge --depclean
+: 1732633704:0;vim .config/hypr/hyprland.conf
+: 1732637574:0;sudo echo GentooBTW > /etc/hostname
+: 1732637601:0;echo GentooBTW > /etc/hostname
+: 1732637768:0;suvim /etc/conf.d/hostname
+: 1732637790:0;sudo rc-service hostname restart
+: 1732639003:0;vi hyprland.conf
+: 1732639264:0;equery h bluray
+: 1732639278:0;vim make.
+: 1732639283:0;suvim make.conf
+: 1732639466:0;equery h cdrom
+: 1732639507:0;sudo lspci | grep -E "IDE|SATA"
+: 1732639767:0;bat $(eselect fontconfig list)
+: 1732639791:0;eselect fontconfig list | less
+: 1732639867:0;emerge --search media-fonts/noto
+: 1732639904:0;sudo emerge --ask --verbsoe media-fonts/fonts-meata
+: 1732639910:0;sudo emerge --ask --verbsoe media-fonts/fonts-meta
+: 1732639963:0;vim package.mask
+: 1732639975:0;suvim package.mask
+: 1732640091:0;sudo emerge --ask --verbose media-fonts/fonts-meta
+: 1732640361:0;adb server
+: 1732641401:0;htop
+: 1732643667:0;zathura 'Silberschatz-Database System Concepts 6th ed.pdf'
+: 1732644483:0;xdg-mime query filetype AI\ and\ the\ End\ of\ Humanity\ by\ Unknown.pdf
+: 1732644662:0;xdg-mime default org.pwmt.zathura-pdg-mupdf.desktop application/pdf
+: 1732644945:0;xdg-mime query default application/pdf
+: 1732647402:0;sudo eselect fontconfig enable 10-powerline-symbols.conf
+: 1732647444:0;sudo eselect fontconfig enable 59-google-droid-sans-mono.conf
+: 1732647514:0;sudo eselect fontconfig enable 80-odofonts-simulate-MS-triditional-chinese.conf
+: 1732647539:0;sudo eselect fontconfig enable 69-odofonts.conf
+: 1732647552:0;sudo eselect fontconfig enable 60-mikachan_o.conf
+: 1732647594:0;sudo eselect fontconfig enable 44-wqy-zenhei-sharp.conf
+: 1732647601:0;sudo eselect fontconfig enable 43-wqy-zenhei-sharp.conf
+: 1732647635:0;sudo eselect fontconfig enable 57-dejavu-sans-mono.conf
+: 1732647683:0;sudo emerge --depclean --with-bdeps=y
+: 1732648710:0;fastfetch
+: 1732648718:0;cd .config/zsh
+: 1732649190:0;nmcli d wifi connect Komal\'s\ Galaxy\ M52\ 5G --ask
+: 1732649375:0;emerge --search whatsapp
+: 1732649477:0;equery uses net-im/mautrix-whatsapp
+: 1732649499:0;sudo emerge --ask net-im/mautrix-whatsapp
+: 1732650091:0;cd .local/share/
+: 1732650138:0;mkdir applications/
+: 1732650143:0;cd applications
+: 1732650155:0;vim whatsapp.desktop
+: 1732650394:0;cd .local/share/applications
+: 1732650401:0;vim notion.desktop
+: 1732650571:0;suvim package.
+: 1732650636:0;eselect fontconfig list
+: 1732650698:0;sudo emerge --ask --verbose media-fonts/noto
+: 1732650786:0;sudo emerge --deselect media-fonts/fonts-meta
+: 1732650809:0;sudo emerge --ask --depclean media-fonts/fonts-meta
+: 1732652259:0;cd Notes
+: 1732652267:0;vim TODO.txt
+: 1732690418:0;nmcli d wifi connect Duplicate\ iPhone\ 15\ Pro\ Max --ask
+: 1732690514:0;sudo emerge --deselect dev-db/mariadb
+: 1732690537:0;sudo rc-update mysql stop
+: 1732690554:0;sudo rc-service mysql stop
+: 1732690569:0;sudo rc-update del mysql default
+: 1732690605:0;sudo emerge --ask --verbose --depclean && sudo eclean --deep --ask distfiles
+: 1732690632:0;cd /var/log
+: 1732690639:0;bat messages
+: 1732691555:0;sudo emerge --deselect net-im/mautrix-whatsapp
+: 1732691568:0;bat syslog
+: 1732691600:0;adb start-server
+: 1732691608:0;adb kill-server
+: 1732691651:0;adb usb
+: 1732691654:0;adb devices
+: 1732691660:0;scrcpy
+: 1732692059:0;bat /var/lib/portage/world
+: 1732692118:0;cd /usr/bin
+: 1732692125:0;ls | :B
+: 1732692131:0;ls | less
+: 1732692153:0;cd ~/.local/bin
+: 1732692183:0;cd contrib_hyprland
+: 1732692194:0;cd /
+: 1732692220:0;cd /usr/local/bin
+: 1732692417:0;vim hyprland.conf
+: 1732692472:0;cllear
+: 1732692508:0;vim package.use
+: 1732692557:0;equery uses dev-db/postgresql
+: 1732692831:0;sudo emerge --ask --verbose dev-db/postgresql
+: 1732692865:0;cd /etc/portage
+: 1732692873:0;vim make.conf
+: 1732693287:0;suvim .
+: 1732693313:0;suvim package.use
+: 1732693573:0;bluetoothctl scan off
+: 1732693640:0;mariadb_config
+: 1732693652:0;sudo emerge --ask --depclean
+: 1732693976:0;users
+: 1732701373:0;suvim /etc/portage/package.use
+: 1732701602:0;sudo emaint --auto sync
+: 1732701655:0;sudo emerge --ask --verbose --update --newuse --deep --with-bdeps=y @world
+: 1732701923:0;ls -al
+: 1732702502:0;echo $PGDATA
+: 1732703109:0;cd Linux
+: 1732703115:0;vim Notes/TODO.txt
+: 1732703980:0;cd /etc/conf.d
+: 1732703984:0;vim postgresql-17
+: 1732704025:0;cd /usr/share
+: 1732704030:0;cd postgresql
+: 1732704058:0;cd /etc/postgresql-17
+: 1732704155:0;nano --help
+: 1732704167:0;man nano
+: 1732704217:0;suvim pg_hba.conf
+: 1732704307:0;sudo emerge --config dev-db/postgresql
+: 1732704414:0;sudo /etc/init.d/postgresql-17 start
+: 1732704435:0;sudo psql -U postgres
+: 1732704506:0;vim /etc/postgresql-17/pg_hba.conf
+: 1732704515:0;suvim /etc/postgresql-17/pg_hba.conf
+: 1732704583:0;sudo /etc/init.d/postgresql-17 reload
+: 1732704598:0;sudo rc-update add postgresql-17 default
+: 1732704669:0;postgres
+: 1732704842:0;psql -u postgres
+: 1732704855:0;psql -U postgres
+: 1732705131:0;vim /etc/hosts
+: 1732705144:0;suvim /etc/hosts
+: 1732705239:0;psql 
+: 1732705319:0;postgres -U postgres -d postgres
+: 1732705327:0;psql -U postgres -d postgres
+: 1732705482:0;psql -U chris -d postgres
+: 1732726732:0;dc hypr
+: 1732726735:0;ls hypr
+: 1732726740:0;cd .conf
+: 1732726762:0;su
+: 1732726774:0;cd .config/hypr
+: 1732726787:0;vim xdg-desktop-hyprland
+: 1732726873:0;cd scripts/
+: 1732726873:0;vim xdg-desktop-hyprland 
+: 1732726873:0;rm -rf scripts/
+: 1732726861:0;mv xdg-desktop-hyprland scripts
+: 1732726870:0;chmod +x xdg-desktop-hyprland
+: 1732726882:0;cd GentooDots/dotconfig
+: 1732726886:0;cd hypr
+: 1732726906:0;cp ~/.config/hypr/scripts/xdg-desktop-hyprland ./
+: 1732726913:0;chmod -x xdg-desktop-hyprland
+: 1732726940:0;git commit -m "Hyprland config added"
+: 1732727185:0;cd waybar
+: 1732727187:0;vim config.jsonc
+: 1732727190:0;vi style.css
+: 1732727576:0;cp -r ~/.config/zsh ./
+: 1732727596:0;git commit -m "Added zsh config"
+: 1732727902:0;cp -r ~/.config/waybar ./
+: 1732727915:0;git add .
+: 1732727961:0;git commit -m "Waybar added"
+: 1732727964:0;git push
+: 1732728171:0;nmcli d wifi rescan
+: 1732728429:0;vim .config/waybar
+: 1732729459:0;waybar
+: 1732738158:0;hyprup
+: 1733823209:0;dbus-run-session
+: 1733823229:0;cd rivr
+: 1733823254:0;dbus-run-session river
+: 1733823267:0;vi .zshrc
+: 1733823404:0;xbps-query -R noto-fonts-emoji
+: 1733823419:0;sudo xbps-install noto-fonts-emoji
+: 1733823489:0;vim .config/zsh/aliases.zsh
+: 1733823622:0;source .config/river/init
+: 1733837128:0;cd nvim
+: 1733837162:0;vi init.lua
+: 1733837318:0;vi
+: 1733838453:0;cd /swap
+: 1733838484:0;sudo btrfs filesystem mkswapfile --size 27G swapfile 
+: 1733838494:0;swapon swapfile
+: 1733838499:0;sudo swapon swapfile
+: 1733838506:0;vim /etc/fstab
+: 1733838521:0;sudo nvim /etc/fstab
+: 1733838852:0;cd Downloads
+: 1733838863:0;tar -xvf Bibata-Modern-Ice.tar.xz
+: 1733838906:0;sudo xbps-install p7zip
+: 1733838936:0;tar xvf Bibata-Modern-Ice.tar.xz
+: 1733838946:0;ks
+: 1733838954:0;tar xvf Bibata-Modern-Ice.tar
+: 1733838978:0;ls Bibata-Modern-Ice
+: 1733838986:0;cd Bibata-Modern-Ice
+: 1733839015:0;mkdir -p ~/.local/share/icons/
+: 1733839026:0;mv Bibata-Modern-Ice ~/.local/share/icons
+: 1733839201:0;cd dot
+: 1733839204:0;cd dotconfig
+: 1733840608:0;rm config.yml
+: 1733840775:0;vim config.yml
+: 1733840803:0;yambar
+: 1733841573:0;cd s
+: 1733841864:0;xbps-query -R lxappearance
+: 1733841877:0;sudo xbps-install lxappearance
+: 1733841991:0;echo $PATH
+: 1733842023:0;cd dotlocal
+: 1733842038:0;mkdir bin
+: 1733842043:0;cd bin
+: 1733842058:0;cp bemenu_run.sh ~/.local/bin/
+: 1733842215:0;riverctl map normal Super D spawn "j4-dmenu-desktop --dmenu='bemenu_run.sh' --term=kitty --no-generic"
+: 1733842369:0;sudo xbps-install fuzzel
+: 1733842407:0;fuzzel
+: 1733842441:0;sudo xbps-remove wofi
+: 1733842454:0;sudo xbps-remove bemenu j4-dmenu-desktop
+: 1733846340:0;xbps-install
+: 1733846362:0;xbps-pkgdb
+: 1733846366:0;xbps-pkgdb --all
+: 1733846374:0;sudo xbps-pkgdb --all
+: 1733846925:0;sudo xbps-install fastfetch
+: 1733847043:0;cd sway
+: 1733847068:0;seatd seat0 xcursor_theme Bibata-Modern-Ice
+: 1733847075:0;sudo seatd seat0 xcursor_theme Bibata-Modern-Ice
+: 1733847091:0;seat 
+: 1733847157:0;echo $XCURSOR_PATH
+: 1733847166:0;vim zsh
+: 1733847201:0;export XCURSOR_PATH=$HOME/.local/share/icons/Bibata-Modern-Ice
+: 1733847219:0;export XCURSOR_PATH=$HOME/.local/share/icons/Bibata-Modern-Ice/index.theme
+: 1733847324:0;export XCURSOR_PATH=$HOME/.local/share/icons
+: 1733847342:0;export XCURSOR_THEME=Bibata-Modern-Ice
+: 1733847353:0;exot
+: 1733847417:0;LS
+: 1733847528:0;echo $XCURSOR_PATH/
+: 1733847614:0;echo $XCURSOR_SIZE
+: 1733847624:0;CLEAR
+: 1733847646:0;vim river
+: 1733847836:0;mkdir Documents
+: 1733847838:0;cd Di
+: 1733847845:0;cd .config/kitty
+: 1733847847:0;vi kitty.conf
+: 1733847863:0;cd exit
+: 1733847881:0;mkdir TODO_Void.txt
+: 1733847887:0;rm -rf TODO_Void.txt
+: 1733847896:0;vi TOOD_Void.txt
+: 1733848054:0;lc
+: 1733848125:0;fuzzel 
+: 1733848225:0;sudo xbps-remove foot
+: 1733848255:0;cd /etc/xdg/fuzzel
+: 1733848271:0;cp -r fuzzel ~/.config
+: 1733848276:0;cd ~/.c
+: 1733848281:0;cd fuzzel
+: 1733848283:0;vim fuzzel.ini
+: 1733848619:0;riverctl map normal Super D spawn fuzzel
+: 1733848638:0;sclear
+: 1733848677:0;man fuzzel
+: 1733848862:0;riverctl map normal Super D spawn "fuzzel -T 'kitty -e'"\
+
+: 1733848980:0;;s
+: 1733849189:0;sudo xbps-install polkit-gnome
+: 1733849204:0;exirt
+: 1733849371:0;sudo xbps-install mako
+: 1733849541:0;sudo xbps-install bc
+: 1733849590:0;sudo xbps-install zsh-completions
+: 1733849634:0;sudo xbps-remove zsh-completions
+: 1733849653:0;man xbps-remove
+: 1733849968:0;cd .cache
+: 1733850313:0;sudo xbps-install swaylock swayidle
+: 1733850425:0;sudo xbps-remove river fuzzel
+: 1733850471:0;sudo xbps-install yambar fuzzel river
+: 1733852585:0;riverctl spawn "yambar"
+: 1733855145:0;swaylock 
+: 1733861453:0;cd
+: 1733861468:0;firefox www.xhamster42.com
+: 1733861523:0;firefox
+: 1733861550:0;poweroff
+: 1733861998:0;sudo xbps-install xtools
+: 1733862027:0;xlocate -S 
+: 1733862066:0;xlocate hello
+: 1733862081:0;xlocate bin
+: 1733862087:0;cleare
+: 1733862130:0;xbps-query -l | awk '{ print $2 }' | xargs -n1 xbps-uhelper getpkgname
+: 1733862333:0;echo $XCURSOR_THEME
+: 1733862341:0;cd .local/share/icons
+: 1733862654:0;gsettings set org.gtk.Settings.ColorChooser selected-color Catppuccin-Dark
+: 1733862837:0;cd .local/share/themes
+: 1733862945:0;vim gtk-3.0
+: 1733864151:0;vim .zshrc
+: 1733864185:0;source .zprofile
+: 1733864295:0;vim .zprofile
+: 1733864512:0;seat
+: 1733864518:0;seatd --help
+: 1733864522:0;man seatd
+: 1733864558:0;man seatd-launch
+: 1733864610:0;seatd-launch seat0 xcursor_theme Bibata-Catppuccin 16
+: 1733864622:0;seatd seat0 xcursor_theme Bibata-Catppuccin 16
+: 1733864646:0;seatd-launch -u chris seat0 xcursor_theme Bibata-Catppuccin 16
+: 1733864987:0;vim .Xresources
+: 1733865103:0;riverctl xcursor-theme Bibata-Catppuccin 16
+: 1733865121:0;vim river/init
+: 1733865193:0;sudo xbps-install bat
+: 1733865235:0;man hello
+: 1733865244:0;nvim :b
+: 1733865285:0;bat --help
+: 1733865307:0;bat cache --help
+: 1733865314:0;bat cache --build
+: 1733865331:0;nvim :B
+: 1733865336:0;man navim
+: 1733865340:0;man nvim
+: 1733865365:0;cd zsh
+: 1733865368:0;vim aliases.zsh
+: 1733865387:0;ba
+: 1733889077:0;sudo xbps-install pipewire
+: 1733889343:0;rm autostart.sh
+: 1733889461:0;sudo xbps-install pamixer
+: 1733889483:0;xbps-query -Rs pamixer
+: 1733889502:0;sudo xbps-install playerctl
+: 1733889612:0;sudo xbps-install rtkit
+: 1733889655:0;ls /etc/sv
+: 1733889683:0;lsblk
+: 1733889696:0;cd /var/service
+: 1733889730:0;cd /etc/runit/runsvdir
+: 1733889733:0;cd default
+: 1733889739:0;cd single
+: 1733889784:0;sudo ln -sf /etc/sv/polkitd /var/service/
+: 1733889803:0;sudo ln -sf /etc/sv/rtkit /var/service
+: 1733889825:0;sudo sv up polkitd
+: 1733889830:0;sudo sv up rtkit
+: 1733889838:0;sudo sv start rtkit
+: 1733889861:0;sudo sv status rtkit
+: 1733890199:0;sudo usermod -a chris
+: 1733890234:0;sudo usermod -a chris -G audio
+: 1733890326:0;pactl info
+: 1733890383:0;mkdir -p ~/.config/pipewire/pipewire.conf.d/
+: 1733890399:0;cd pipewire
+: 1733890401:0;cd pipewire.conf.d
+: 1733890435:0;ln -s /usr/share/examples/pipewire/20-pipewire-pulse.conf ~/.config/pipewire/pipewire.conf.d
+: 1733890509:0;ln -s /usr/share/examples/wireplumber/10-wireplumber.conf ~/.config/pipewire/pipewire.conf.d
+: 1733890517:0;cd .config/pipewire/pipewire.conf.d
+: 1733890544:0;clea
+: 1733890549:0;pkill 1047
+: 1733890561:0;kill 1047
+: 1733890563:0;pidof pipewire
+: 1733890834:0;cd .config/river/
+: 1733896407:0;fc-list | grep -i Fantasque
+: 1733896482:0;vim gtk-3.0/settings.ini
+: 1733896534:0;cd .config/fuzzel
+: 1733896537:0;vi fuzzel.ini
+: 1733896975:0;sudo xbps-install mpv
+: 1733897076:0;xbps-query -Rs yt-dlp
+: 1733897085:0;sudo xbps-install yt-dlp
+: 1733897135:0;xbps-query -Rs qutebrowser
+: 1733897543:0;imv
+: 1733897554:0;mpv
+: 1733897610:0;mkdir imv
+: 1733897650:0;imv --help
+: 1733897655:0;man imv
+: 1733897975:0;echo $imv_current_file
+: 1733898510:0;xdg-mime query filetype current.png
+: 1733898526:0;xdg-mime --hlep
+: 1733898536:0;xdg-mime :b
+: 1733898568:0;xdg-mime default application image/png
+: 1733898597:0;xdg-mime query default image/png
+: 1733898630:0;xdg-mime default image/png imv.desktop
+: 1733898645:0;xdg-mime default imv.desktop image/png
+: 1733898665:0;sudo xbps-install zathura
+: 1733898745:0;xbps-query -Rs zathura
+: 1733898777:0;sudo xbps-install zathura-cb zathura-pdf-mupdf
+: 1733899019:0;wget -qO- https://git.io/papirus-icon-theme-install | env DESTDIR="$HOME/.local/share/icons" sh
+: 1733899106:0;cd .local
+: 1733899111:0;cd share
+: 1733899113:0;cd icons
+: 1733899163:0;cd gtk-3.0
+: 1733899167:0;vi settings.ini
+: 1733899468:0;bat riverctl
+: 1733899531:0;sudo xbps-install thunar
+: 1733899538:0;sudo xbps-install Thunar
+: 1733899605:0;sudo xbps-install gvfs
+: 1733899680:0;sudo xbps-install -Su
+: 1733899948:0;export GTK_THEME=Catppuccin-Dark
+: 1733900071:0;xbps-query -Rs Thunar
+: 1733900112:0;GTK_THEME=Catppuccin-Dark thunar
+: 1733900178:0;gsettings set org.gnome.desktop.interface gtk-theme Catppuccin-Dark
+: 1733900189:0;gsettings set org.gnome.desktop.interface icon-theme Papirus-Dark
+: 1733900263:0;gsettings set org.gnome.desktop.interface font-name JetBrainsMono
+: 1733900336:0;vim user-dirs.dirs
+: 1733900606:0;sudo xbps-install gvfs-mtp
+: 1733900714:0;xbps-query -Rs mtp
+: 1733900745:0;sudo xbps-install jmtpfs
+: 1733900811:0;sudo xbps-install thunar-volman
+: 1733900830:0;thunar
+: 1733901084:0;sudo xbps-install ffmpeg
+: 1733901147:0;sudo xbps-install jq
+: 1733901354:0;sudo xbps-install mupdf
+: 1733901598:0;mako
+: 1733901606:0;notify-send Hellp
+: 1733901627:0;_pdf
+: 1733901632:0;lcear
+: 1733901749:0;cd ~/.config
+: 1733901754:0;cd yazi
+: 1733901876:0;mupdf --help
+: 1733902147:0;q
+: 1733902158:0;cd .config/yazi
+: 1733902161:0;vim yazi.toml
+: 1733902167:0;rm yazi.toml
+: 1733902336:0;mkdir gtk-4.0/
+: 1733902358:0;cp gtk-3.0/settings.ini gtk-4.0
+: 1733902362:0;cd gtk-4.0
+: 1733902481:0;gsettings set org.gnome.desktop.interface cursor-theme Bibata-Modern-Ice
+: 1733902508:0;riverctl xcursor-theme Bibata-Modern-Ice 16
+: 1733902525:0;riverctl xcursor-theme Bibata-Modern-Ice 32
+: 1733902530:0;riverctl xcursor-theme Bibata-Modern-Ice 24
+: 1733902553:0;vim .config/river/init
+: 1733902576:0;riverctl xcursor-theme Bibata-Modern-Ice 20
+: 1733902633:0;gsettings set org.gnome.desktop.interface enable-animations 1
+: 1733902636:0;gsettings set org.gnome.desktop.interface enable-animations true
+: 1733902757:0;sl
+: 1733902774:0;sudo xbps-install ripgrep
+: 1733903081:0;cd .config/gtk-4.0
+: 1733903083:0;vim settings.ini
+: 1733903358:0;gsettings set org.gnome.desktop.wm.preferences button-layout ""
+: 1733903419:0;man gsettings
+: 1733903430:0;cleear
+: 1733903644:0;lsl
+: 1733903647:0;vim TOOD_Void.txt
+: 1733903684:0;loginctl poweroff
+: 1733923419:0;man xbps-install
+: 1733923734:0;sudo xbps-install -Suv
+: 1733924315:0;sudo xbps-install -foO
+: 1733924343:0;sudo xbps-install xbps
+: 1733924352:0;sudo xbps-install -u xbps
+: 1733924375:0;sudo xbps-remove -foO
+: 1733924445:0;loginctl lock-session
+: 1733924448:0;swaylock
+: 1733925887:0;man riverctl
+: 1733925925:0;man river
+: 1733926144:0;riverctl map normal Super+Shift Return zoom
+: 1733926159:0;riverctl map normal Super Return spawn kitty
+: 1733926364:0;cd .config/imv
+: 1733926366:0;vi config
+: 1733926417:0;imv 4.png
+: 1733926498:0;wbg 4.png
+: 1733926566:0;source ~/.config/river/init
+: 1733926624:0;cear
+: 1733926630:0;source init
+: 1733926831:0;notify-send Hello
+: 1733927084:0;man yambar
+: 1733927094:0;claer
+: 1733927098:0;man 5 yambar
+: 1733928186:0;cler
+: 1733928198:0;xbps-query -Rs wlsuset
+: 1733928203:0;xbps-query -Rs wlsunset
+: 1733928308:0;cd /etc/xdg
+: 1733928310:0;cd autostart
+: 1733928534:0;man 5 mako
+: 1733928548:0;mkdir mako/
+: 1733928550:0;cd mako
+: 1733928555:0;vim config
+: 1733928572:0;makoctl reload
+: 1733928581:0;notify-send hello
+: 1733928587:0;makoctl dismiss
+: 1733928805:0;time
+: 1733928813:0;clelwar
+: 1733928819:0;cd /etc/
+: 1733928828:0;vim localtime
+: 1733928850:0;sudo ln -sf /usr/share/zoneinfo/Asia/Kolkata /etc/localtime
+: 1733928866:0;date
+: 1733928956:0;pkill yambar
+: 1733928961:0;yambar &
+: 1733929210:0;mpv 'https://www.youtube.com/watch?v=ekr2nIex040'Documents/
+: 1733929214:0;mpv 'https://www.youtube.com/watch?v=ekr2nIex040'
+: 1733929483:0;gcc --version
+: 1733929492:0;sudo xbps-query -Rs clang
+: 1733929517:0;xbps-query gcc
+: 1733929554:0;sudo xbps-remove -foO gcc
+: 1733932363:0;cd 
+: 1733932365:0;cd .c
+: 1733932372:0;cd z
+: 1733932388:0;cd zathura
+: 1733932393:0;mv zathurarc ../
+: 1733932400:0;rm -rf zathura
+: 1733932422:0;zathura 10%\ Happier.pdf
+: 1733932645:0;xdg-mime query filetype 10%\ Happier.pdf
+: 1733932700:0;xdg-mime default org.pwmt.zathura-pdf-mupdf.desktop application/pdf
+: 1733932820:0;zathura --config-dir=~/.config/zathura
+: 1733932837:0;sudo xbps-install poppler
+: 1733933124:0;cd .config/river
+: 1733933209:0;vim hello.c
+: 1733933304:0;sudo xbps-install clang
+: 1733933391:0;nmcli d wifi list
+: 1733933468:0;clang hello.c
+: 1733933472:0;./a.out
+: 1733933479:0;rm a.out
+: 1733933488:0;clang hello.c -o hello
+: 1733933491:0;./hello
+: 1733933495:0;lls
+: 1733933661:0;ffetch
+: 1733934061:0;mkdir scripts/
+: 1733934094:0;vim idle_inhibit.sh
+: 1733934120:0;chmod +x idle_inhibit.sh
+: 1733934164:0;vim idle_service.sh
+: 1733934183:0;chmod +x idle_service.sh
+: 1733934480:0;rm *
+: 1733934502:0;loginctl suspend
+: 1733934552:0;bash autostart.sh
+: 1733934600:0;echo $XDG_CONFIG_HOME
+: 1733934636:0;wbg --help
+: 1733934642:0;wbg :b
+: 1733934644:0;wbg :B
+: 1733934646:0;man wbg
+: 1733934661:0;wbg -o ~/Pictures/Wallpapers/void-1920x1080.png
+: 1733934807:0;cd .config/river/scripts
+: 1733934809:0;vi autostart.sh
+: 1733935037:0;brightnessctl -s set 10
+: 1733935045:0;brightnessctl -r
+: 1733935529:0;brightnessctl get
+: 1733935740:0;cd Internet/Git/
+: 1733935746:0;cd GentooDots
+: 1733935753:0;cd Sway
+: 1733935759:0;vim sway/config
+: 1733935806:0;man 5 swayidle
+: 1733935813:0;man swayidle
+: 1733935940:0;cd ..
+: 1733935943:0;vi init
+: 1733936008:0;loginctl reboot\ 
+: 1733936106:0;sudo xbps-install socklog-void
+: 1733936141:0;clera
+: 1733936153:0;la
+: 1733936202:0;ln :b
+: 1733936223:0;l
+: 1733936248:0;sudo xbps-query -Rs qutebrowser
+: 1733936448:0;sudo xbps-install -S qutebrowser
+: 1733936510:0;sudo ln -sf /etc/sv/socklog-unix /var/service
+: 1733936529:0;sudo ln -sf /etc/sv/nanoklogd /var/service
+: 1733936538:0;sudo sv up socklog-unix
+: 1733936545:0;sudo sv up nanoklogd
+: 1733936569:0;sudo usermod -a chris -G socklog
+: 1733936577:0;svlogtail
+: 1733936584:0;sudo svlogtail
+: 1733937283:0;riverctl map normal Super+Shift I spawn qutebrowser
+: 1733937392:0;fc-list | grep -i Italic
+: 1733938155:0;xbps-query -Rs bluez
+: 1733938317:0;sudo xbps-install bluez
+: 1733938460:0;sudo xbps-install bluez-obex
+: 1733938543:0;cd /etc/sv
+: 1733938564:0;sudo ln -sf /etc/sv/bluetoothd /var/service
+: 1733938571:0;sudo sv up bluetoothd
+: 1733938578:0;sudo sv start bluetoothd
+: 1733938611:0;xbps-query -Rs bluetuith
+: 1733938614:0;xbps-query -Rs bluetuit
+: 1733938618:0;xbps-query -Rs bluetui
+: 1733938628:0;sudo xbps-install bluetuith
+: 1733938652:0;bluetoothd
+: 1733938662:0;bluetuith
+: 1733938692:0;celar
+: 1733938709:0;cd Internet
+: 1733938711:0;cd Git
+: 1733938869:0;git clone --depth=1 https://git.sainnhe.dev/sainnhe/icursive-nerd-font.git
+: 1733939161:0;xbps-query -Rs widevine
+: 1733939403:0;xbps-query -Rs fontconfig
+: 1733939628:0;lsd
+: 1733939642:0;chmod +x autostart.sh
+: 1733939727:0;s
+: 1733939764:0;btop
+: 1733939805:0;mpv 'https://www.youtube.com/watch?v=Xukxjs9VYiI'
+: 1733939874:0;vim scripts
+: 1733939903:0;pipewire
+: 1733939924:0;wpctl status
+: 1733939936:0;vim init
+: 1733940024:0;loginctl reboot
+: 1733940078:0;cd .config
+: 1733940082:0;cd river
+: 1733940090:0;cd scripts
+: 1733940092:0;vim autostart.sh
+: 1733940155:0;flow
+: 1733940745:0;clewar
+: 1733940912:0;cd Documents
+: 1733940914:0;y
+: 1733941068:0;clear
+: 1733941069:0;ls
+: 1733941070:0;exit
+: 1733941083:0;clear
+: 1733941084:0;ls
+: 1733941108:0;ssh-keygen -t ed25519 -C "<rachitverma1122@gmail.com>"
+: 1733941112:0;lcewar
+: 1733941117:0;ssh-agent -s
+: 1733941128:0;ssh-add ~/.ssh/id_ed25519
+: 1733941136:0;clear
+: 1733941149:0;eval "$(ssh-agent -s)"
+: 1733941157:0;ssh-add .ssh/id_ed25519
+: 1733941162:0;clear
+: 1733941162:0;ls
+: 1733941164:0;cd .ssh
+: 1733941165:0;ls
+: 1733941169:0;vi id_ed25519.pub
+: 1733941765:0;clear
+: 1733941766:0;cd 
+: 1733941767:0;ls
+: 1733941768:0;cd Internet
+: 1733941768:0;ls
+: 1733941770:0;cd Git
+: 1733941770:0;ls
+: 1733941780:0;git clone git@github.com:rachitve6h2g/VoidDots.git
+: 1733941793:0;ls
+: 1733941796:0;cd VoidDots
+: 1733941797:0;ls
+: 1733941801:0;vim README.md
+: 1733941839:0;lcear
+: 1733941840:0;clear
+: 1733941840:0;ls
+: 1733941845:0;git add .\ 
+: 1733941846:0;git add .
+: 1733941855:0;git commit -m "First Commit"
+: 1733941873:0;git config --global user.email "rachitverma1122@gmail.com"
+: 1733941894:0;git config --global user.email "<rachitverma1122@gmail.com>"
+: 1733941909:0;git config --global user.name "<rachitve6h2g>"
+: 1733941918:0;git commit -m "First commit"
+: 1733941921:0;git push
+: 1733941939:0;clear
+: 1733941939:0;y
+: 1733941989:0;clear
+: 1733941990:0;y
